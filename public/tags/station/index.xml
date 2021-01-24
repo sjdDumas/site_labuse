@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>station on A minimal Hugo website</title>
+    <link>/tags/station/</link>
+    <description>Recent content in station on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/station/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La station forestière a-t-elle encore un sens ?</title>
+      <link>/post/2021/01/23/la-station-foresti%C3%A8re-a-t-elle-encore-un-sens/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/01/23/la-station-foresti%C3%A8re-a-t-elle-encore-un-sens/</guid>
+      <description>Le concept de station Un type de station regroupe l&amp;rsquo;ensemble des stations analogues par certains critères : position topographique et/ou géomorphologie et/ou nature du sol et/ou composition floristique, etc. Un type de station est donc, par définition, indépendant de la nature du peuplement forestier actuel1.
+Pourtant, suite à une coupe rase par exemple, la flore devient plus xérophile, et l&amp;rsquo;humus tend à se minéraliser sous l&amp;rsquo;effet de la mise en lumière.</description>
+    </item>
+    
+  </channel>
+</rss>

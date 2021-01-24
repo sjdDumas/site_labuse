@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+ul, menu, dir {
+    background: forestgreen;
+    padding: 10px;
+    color: antiquewhite;
+    border-radius: 50px;
+    font-weight: 800;
+}
+a:-webkit-any-link {
+    color: lightsteelblue;
+}
